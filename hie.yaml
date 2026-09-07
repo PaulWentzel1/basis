@@ -1,0 +1,6 @@
+cradle:
+  cabal:
+    - path: "haskell/src"
+      component: "lib:basis"
+    - path: "haskell/app"
+      component: "exe:basis-exe"
