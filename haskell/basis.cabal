@@ -11,6 +11,8 @@ library
         Math.Combinatorics
         Math.Constants
         Math.Stats
+        Finance.Rates
+        Finance.Derivatives
     build-depends:      base
 
 executable basis-exe
