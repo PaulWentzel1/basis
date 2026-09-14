@@ -1,5 +1,4 @@
 ![banner](Flammarion.jpg)
-
 <sub>Peering behind the veil of abstraction.</sub>
 
 # Basis
